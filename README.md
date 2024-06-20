@@ -39,11 +39,7 @@ Welcome to the **AI Virtual Painter**, an innovative project developed in Python
         ```
 
 4. **Install Required Packages**:
-    ```sh
-    pip install -r requirements.txt
-    ```
-
-    If you don't have a `requirements.txt` file, you can install the necessary packages individually:
+    
     ```sh
     pip install opencv-python numpy
     ```
@@ -58,12 +54,6 @@ Welcome to the **AI Virtual Painter**, an innovative project developed in Python
 - Change shapes by using specific hand gestures.
 - Adjust the brush thickness and shape size through on-screen controls.
 - To clear the screen, raise two fingers.
-
-### Contributing
-Contributions are welcome! Please fork this repository and submit a pull request for any improvements or new features.
-
-### License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
