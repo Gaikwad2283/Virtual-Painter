@@ -1,6 +1,6 @@
 
 # Advanced_Virtual_Painter
-![Logo](Header/output.png)
+![Logo](AI_Virtual_Painter_2.0-main/Header/output.png)
 
 ## AI Virtual Painter with Geometric Shapes | Drawing in Air | Computer Vision | OpenCV | AI TechStack
 
